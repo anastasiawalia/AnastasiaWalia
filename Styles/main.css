@@ -86,7 +86,7 @@ h2 {
 	position: absolute;
 	opacity: 0;
 	margin-left: 10px;
-  overflow: hidden;
+    overflow: hidden;
 	-webkit-animation: rotateWord 15s linear 0s;
 	-moz-animation: rotateWord 15s linear 0s;
 	-o-animation: rotateWord 15s linear 0s;
